@@ -1,2 +1,5 @@
-# maasi
-Frontend for my main website.
+# Maasi
+Main portfolio website frontend and backend.
+
+
+*Halitrephes maasi*
